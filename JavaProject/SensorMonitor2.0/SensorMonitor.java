@@ -16,6 +16,7 @@ public class SensorMonitor {
         public void run() {
             double temperatura = leerTemperatura();
 
+            // Modificar a gusto
             if (temperatura >= 70.0) {
                 abrirArchivoHTML("/home/usuario/Descargas/vscode/JavaProject/SensorMonitor2.0/Pages/index.html");
             }
