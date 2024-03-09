@@ -1,0 +1,41 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/316/153/desktop-wallpaper-black-and-white-posted-by-sarah-tremblay-cool-black-and-white.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    text-align: center;
+    border: 1px white solid;
+    height: 200px;
+}
+
+h1 {
+    background-color: #0D1D25;
+    color: white;
+    margin-top: 70px;
+    border: 1px white solid;
+    width: 700px;
+    margin-left: 290px;
+    border-radius: 30px;
+    border-color: transparent;
+}
+
+main {
+    text-align: center;
+    border: 1px white solid;
+    height: 200px;
+    align-items: center;
+    margin: auto;
+}
+
+button {
+    background-color: #41131B;
+    border: none;
+    border-radius: 20px;
+    height: 30px;
+}
+
+footer {
+    text-align: center;
+}
